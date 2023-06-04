@@ -1,5 +1,5 @@
-# jqr_centos9_builder
-CentOS 9 Streams build script for Developer JQR Environment
+# Developer JQR Ubuntu Desktop Builder
+Ubuntu 22.04.2 build script for Developer JQR Environment
 
 # Install Visual Studio Code
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
