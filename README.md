@@ -1,5 +1,5 @@
 # Developer JQR Ubuntu Desktop Builder
-## Ubuntu 22.04.2 build script for Developer JQR Environment
+Ubuntu 22.04.2 build script for Developer JQR Environment
 
 # Update and Add Basic Packages
 sudo apt update -y
