@@ -4,7 +4,7 @@ Ubuntu 22.04.2 build script for Developer JQR Environment
 # Update and Add Basic Packages
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y git ssh
+sudo apt install -y git ssh python3.10-venv
 
 # Install Visual Studio Code
 sudo apt-get install wget gpg
